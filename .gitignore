@@ -21,6 +21,7 @@ downloads/
 eggs/
 .eggs/
 lib/
+bin/
 lib64/
 parts/
 sdist/
@@ -111,4 +112,3 @@ dmypy.json
 # End of https://www.gitignore.io/api/python
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
